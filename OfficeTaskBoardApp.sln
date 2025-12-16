@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeTaskBoardApp", "OfficeTaskBoardApp\OfficeTaskBoardApp.csproj", "{7FCE9F72-FE77-48BA-98A1-8BD1AA410FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCE9F72-FE77-48BA-98A1-8BD1AA410FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCE9F72-FE77-48BA-98A1-8BD1AA410FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCE9F72-FE77-48BA-98A1-8BD1AA410FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCE9F72-FE77-48BA-98A1-8BD1AA410FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F916ED02-1349-4F22-9301-3A29C66B6A52}
+	EndGlobalSection
+EndGlobal
